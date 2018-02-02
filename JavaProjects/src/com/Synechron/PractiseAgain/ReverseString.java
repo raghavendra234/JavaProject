@@ -18,6 +18,7 @@ for(int i=string.length-1;i>=0;i--)
 {
 storage=storage+string[i];
 }
+System.out.println(storage);
 }
 
 }
