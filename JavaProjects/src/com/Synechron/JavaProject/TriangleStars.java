@@ -1,9 +1,13 @@
 package com.Synechron.JavaProject;
 
+import java.util.Scanner;
+
 public class TriangleStars {
 
 	public static void main(String[] args) {
-int n=5;
+Scanner s=new Scanner(System.in);
+System.out.println("entert the value of ");
+int n=s.nextInt();
 
 for(int i=0;i<=n;i++)
 {
