@@ -12,7 +12,7 @@ public class ArrayAddition {
 		{
 			result=result+i;
 		}
-	System.out.println(result);	
+	System.out.println("res"+result);	
 	}
 
 }
